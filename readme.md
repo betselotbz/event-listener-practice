@@ -1,5 +1,7 @@
 # Implement an Event Listener
 
+[Feel free to fork this codepen for the exercise](https://codepen.io/marcwright/pen/GRNPGoq)
+
 We've provided you with three files: `index.html` `style.css` and `script.js`.
 
 Inside of `index.html`, you'll find two buttons, one that should turn the background to red and a second that should turn the background to blue. Write the necessary JavaScript to implement an event for each button.
